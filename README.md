@@ -15,4 +15,3 @@ Key Visuals: 📌 KPI: Total Customers , Overall Churn Rate. 📊 Donut Charts: 
 
 Business Impact & Insights: Gender: Slightly higher female representation (54.6%) than males. Churn: 20.4% of customers are classified as churned, a significant business risk. Product & Country Segments: Majority from Product 1 and from France. Churn Correlation: Highest churn rates among customers aged 51-60 and those with account balances between 10K–100K. Credit Score: Most customers fall in the 701–800 range, but highest churn rates are for those with scores <400. Actionable Areas: High churn among inactive status, product 2 holders, and certain age/credit brackets signal where to focus interventions.
 
-6. Screenshots / Demos: Example: [DashBoard Preview].(https://github.com/shakthi1720/CHURN-ANALYSIS-BANK-CUSTOMER-DATA/blob/main/CHURN%20ANALYSIS%20BANK%20CUSTOMER%20DATA.png)
